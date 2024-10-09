@@ -1,0 +1,26 @@
+header {
+    font-family: "Helvetica", Arial, sans-serif;
+    text-align: center;
+}
+
+.container {
+    float:center;
+}
+
+.section_bio {
+    font-family: "Helvetica", Arial, sans-serif;
+    float:right;
+    width: 50%;
+}
+
+.image {
+    float:left;
+    padding-left: 5%;
+
+    max-width: 100%;
+    height: auto;
+}
+
+img{
+    border-radius: 30px;
+}
